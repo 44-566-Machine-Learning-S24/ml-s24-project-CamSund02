@@ -1,7 +1,7 @@
 # ANALYSIS
 
 # Links
-[Models Notebook](Notebooks\Models.ipynb)\
+[Models Notebook](https://github.com/44-566-Machine-Learning-S24/ml-s24-project-CamSund02/blob/master/Notebooks/Models.ipynb)\
 [Link to next markdown file DATA.md](CONCLUSIONS.md)
 ## Metrics
 ### Linear Regression
@@ -38,7 +38,7 @@ Test F1 Score: 0.037
 Test Accuracy: 0.008\
 Test F1 Score: 0.001
 
-For Random Forest and Decision Tree I tuned them by changing their max depth values to see if the results would get better. All results can be found in [Models Notebook](Notebooks\Models.ipynb). A challenge that I faced was that since I was using 1 notebook for all my models variables were getting reused and were changing, making some of my results different from what they should be. I fixed this by making each model their own variables set to their specific name.
+For Random Forest and Decision Tree I tuned them by changing their max depth values to see if the results would get better. All results can be found in [Models Notebook](https://github.com/44-566-Machine-Learning-S24/ml-s24-project-CamSund02/blob/master/Notebooks/Models.ipynb). A challenge that I faced was that since I was using 1 notebook for all my models variables were getting reused and were changing, making some of my results different from what they should be. I fixed this by making each model their own variables set to their specific name.
 
 Another challenge was getting my K-means clustering to look correct, initially I was doing it wrong by splitting the data into train and test splits but after the K-means assignment I ended up putting all my features together and seeing what I got out of that.
 
