@@ -8,7 +8,7 @@
 [Link to next markdown file DATA.md](DATA.md)
 
 ## Data Aquisition
-The initial dataset that I used for this project was [Housing.csv]([/DataSets\Housing.csv](https://github.com/44-566-Machine-Learning-S24/ml-s24-project-CamSund02/blob/master/DataSets/Housing.csv)) found from [Kaggle](https://www.kaggle.com/datasets/yasserh/housing-prices-dataset/data). I used this dataset for the first two milestones, however after using it and looking at the results I determined that I wasn't going to use it any longer due to the unknown validity of the data.
+The initial dataset that I used for this project was [Housing.csv](https://github.com/44-566-Machine-Learning-S24/ml-s24-project-CamSund02/blob/master/Notebooks/Models.ipynb) found from [Kaggle](https://www.kaggle.com/datasets/yasserh/housing-prices-dataset/data). I used this dataset for the first two milestones, however after using it and looking at the results I determined that I wasn't going to use it any longer due to the unknown validity of the data.
 
 After deciding to not use my initial dataset I decided that I would web scrape Zillow for data. I made this decision because I am currently in Web Mining and thought that it would be a cool to use the data from one project for another.
 
