@@ -7,7 +7,7 @@
 
 
 ## Exploration
-Within my intital_explorations-checkpoint you can find the feautes and first few values within my first dataset.
+Within [initial exploration](https://github.com/44-566-Machine-Learning-S24/ml-s24-project-CamSund02/blob/master/.ipynb_checkpoints/initial_exploration-checkpoint.ipynb) you can find the feautes and first few values within my first dataset. You can also view my linear regression of the first data set [Linear Regression](https://github.com/44-566-Machine-Learning-S24/ml-s24-project-CamSund02/blob/master/.ipynb_checkpoints/linear_regression-checkpoint.ipynb)
 
 Within my second dataset ZillowScrape4.10.24 I found 4 features: latitude, longitued, floorSize and price. You can view this within the output of my second python cell in my [Models Notebook](https://github.com/44-566-Machine-Learning-S24/ml-s24-project-CamSund02/blob/master/Notebooks/Models.ipynb).
 
