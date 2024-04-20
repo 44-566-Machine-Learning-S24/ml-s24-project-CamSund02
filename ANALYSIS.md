@@ -1,7 +1,7 @@
 # ANALYSIS
 
 # Links
-[Models Notebook](Notebooks\Models.ipynb)
+[Models Notebook](Notebooks\Models.ipynb)\
 [Link to next markdown file DATA.md](CONCLUSIONS.md)
 ## Metrics
 ### Linear Regression
