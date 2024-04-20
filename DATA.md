@@ -1,0 +1,21 @@
+# DATA
+
+## Links
+[Initial Exploration](.ipynb_checkpoints\initial_exploration-checkpoint.ipynb)
+[Models Notebook](Models.ipynb)
+[Link to next markdown file DATA.md](ANALYSIS.md)
+
+
+## Exploration
+Within my intital_explorations-checkpoint you can find the feautes and first few values within my first dataset.
+
+Within my second dataset ZillowScrape4.10.24 I found 4 features: latitude, longitued, floorSize and price. You can view this within the output of my second python cell in my [Models Notebook](Notebooks\Models.ipynb).
+
+
+## Transformations
+I performed a PCA dimension reduction within my [Models Notebook](Notebooks\Models.ipynb), this can be found within the K-means Clustering section being the second model that I used in the notebook. You can also find my initial linear regresssion model here as well, being my first model used in my [Models Notebook](Notebooks\Models.ipynb).
+
+## Visualizations
+![Linear Regrssion](Visualizations\LinearRegression.png)\
+![K-means 3d using PCA](Visualizations\K-means3d.png)\
+![K-means 2d](Visualizations\K-means2d.png)
