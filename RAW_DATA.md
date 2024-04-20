@@ -1,10 +1,10 @@
 # RAW_DATA
 
 ## Links
-[First Dataset](DataSets\Housing.csv)\
-[Zillow Scraper](ScrapingZillow.ipynb)\
-[Second Dataset](DataSets\ZillowScrape4.10.24.csv)\
-[Second Dataset Duplicates Removed](DataSets\4.10.24DuplicatesRemoved.csv)\
+[First Dataset](https://github.com/44-566-Machine-Learning-S24/ml-s24-project-CamSund02/blob/master/DataSets/Housing.csv)\
+[Zillow Scraper](https://github.com/44-566-Machine-Learning-S24/ml-s24-project-CamSund02/blob/master/Notebooks/ScrapingZillow.ipynb)\
+[Second Dataset](https://github.com/44-566-Machine-Learning-S24/ml-s24-project-CamSund02/blob/master/DataSets/ZillowScrape4.10.24.csv)\
+[Second Dataset Duplicates Removed](https://github.com/44-566-Machine-Learning-S24/ml-s24-project-CamSund02/blob/master/DataSets/4.10.24DuplicatesRemoved.csv)\
 [Link to next markdown file DATA.md](DATA.md)
 
 ## Data Aquisition
