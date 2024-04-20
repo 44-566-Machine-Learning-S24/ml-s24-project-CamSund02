@@ -16,6 +16,6 @@ Within my second dataset ZillowScrape4.10.24 I found 4 features: latitude, longi
 I performed a PCA dimension reduction within my [Models Notebook](https://github.com/44-566-Machine-Learning-S24/ml-s24-project-CamSund02/blob/master/Notebooks/Models.ipynb), this can be found within the K-means Clustering section being the second model that I used in the notebook. You can also find my initial linear regresssion model here as well, being my first model used in my [Models Notebook](https://github.com/44-566-Machine-Learning-S24/ml-s24-project-CamSund02/blob/master/Notebooks/Models.ipynb).
 
 ## Visualizations
-![Linear Regrssion](Visualizations\LinearRegression.png)\
-![K-means 3d using PCA](Visualizations\K-means3d.png)\
-![K-means 2d](Visualizations\K-means2d.png)
+![Linear Regrssion](https://github.com/44-566-Machine-Learning-S24/ml-s24-project-CamSund02/blob/master/Visualizations/LinearRegression.png)\
+![K-means 3d using PCA](https://github.com/44-566-Machine-Learning-S24/ml-s24-project-CamSund02/blob/master/Visualizations/K-means3d.png)\
+![K-means 2d](https://github.com/44-566-Machine-Learning-S24/ml-s24-project-CamSund02/blob/master/Visualizations/K-means2d.png)
