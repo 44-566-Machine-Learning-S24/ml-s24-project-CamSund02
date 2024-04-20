@@ -1,8 +1,8 @@
 # DATA
 
 ## Links
-[Initial Exploration](https://github.com/44-566-Machine-Learning-S24/ml-s24-project-CamSund02/blob/master/.ipynb_checkpoints/initial_exploration-checkpoint.ipynb)
-[Models Notebook](https://github.com/44-566-Machine-Learning-S24/ml-s24-project-CamSund02/blob/master/Notebooks/Models.ipynb)
+[Initial Exploration](https://github.com/44-566-Machine-Learning-S24/ml-s24-project-CamSund02/blob/master/.ipynb_checkpoints/initial_exploration-checkpoint.ipynb)\
+[Models Notebook](https://github.com/44-566-Machine-Learning-S24/ml-s24-project-CamSund02/blob/master/Notebooks/Models.ipynb)\
 [Link to next markdown file DATA.md](ANALYSIS.md)
 
 
